@@ -1,6 +1,6 @@
 ## Hi there 👋
 - ⚡ I'm a full stack developer at Olifel.
-- 🔭 Currently working on a android app to track my personal expenses.
+- 🔭 Currently working on a web app to track my personal expenses.
 - 📫 How to reach me: tiagoleite2001@outlook.com
 
 <!--
