@@ -1,5 +1,5 @@
 ## Hi there 👋
-- ⚡ I'm a full stack developer at Olifel.
+- ⚡ I'm a full stack developer.
 - 🔭 Currently working on a web app to track my personal expenses.
 - 📫 How to reach me: tiagoleite2001@outlook.com
 
